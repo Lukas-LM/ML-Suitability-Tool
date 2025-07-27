@@ -1,15 +1,15 @@
 # ML-Suitability-Tool
 
-Dieses Tool hilft Fachbereichen ohne ML-Hintergrund schnell und einfach zu beurteilen, ob ein Problem mit Machine Learning gelöst werden kann.  
-Durch fünf gezielte Fragen wird eine Empfehlung abgegeben, ob das Problem ML-tauglich ist.
+This tool helps departments without a machine learning background quickly and easily assess whether a problem can be solved with machine learning.
+Five targeted questions provide a recommendation as to whether the problem is suitable for machine learning.
 
 ---
 
 ## Features
 
-- Einfache Web-Oberfläche mit Streamlit  
-- Beurteilung basierend auf Datenumfang, Datenqualität, Problemtyp und Zieldefinition  
-- Schnelle Rückmeldung, ob ein Machine Learning-Ansatz sinnvoll ist
+- Simple web interface with Streamlit
+- Assessment based on data volume, data quality, problem type, and goal definition
+- Quick feedback on whether a machine learning approach makes sense
 
 ---
 
