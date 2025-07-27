@@ -13,5 +13,5 @@ Durch fünf gezielte Fragen wird eine Empfehlung abgegeben, ob das Problem ML-ta
 
 ---
 
-## Live-Demo
+## Live Demo
  (https://ml-suitability-tool-lm.streamlit.app/)
