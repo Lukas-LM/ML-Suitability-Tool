@@ -2,7 +2,10 @@ import streamlit as st
 
 st.title("ML-Suitability-Tool")
 
-st.write("The tool enables departments to quickly and accurately assess whether a problem is suitable for Machine Learning")
+st.markdown("""The tool enables departments to quickly and accurately assess whether a problem is suitable for Machine Learning.
+             
+            This tool does not provide a binding recommendation, but is used solelyto assess whether a problem could suitable for
+            Machine Learning from the perspective of data structure and goal definition!""")
 
 def evaluate_problem(problem_score, data_size_score, data_structure_score, data_cleaning_score, goal_score):
     # problem_score and goal_score are the most important scores to decide if the problem is for Machine Learning
